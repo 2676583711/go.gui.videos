@@ -1,0 +1,10 @@
+08_信号处理.avi filter=lfs diff=lfs merge=lfs -text
+10_glade的使用.avi filter=lfs diff=lfs merge=lfs -text
+22_鼠标点击事件.avi filter=lfs diff=lfs merge=lfs -text
+04_无边框窗口(下).avi filter=lfs diff=lfs merge=lfs -text
+07_界面其它设计.avi filter=lfs diff=lfs merge=lfs -text
+08_黑白子提示闪动效果.avi filter=lfs diff=lfs merge=lfs -text
+10_落子代码实现(上).avi filter=lfs diff=lfs merge=lfs -text
+14_吃子.avi filter=lfs diff=lfs merge=lfs -text
+15_棋子个数统计.avi filter=lfs diff=lfs merge=lfs -text
+16_胜负判断.avi filter=lfs diff=lfs merge=lfs -text
